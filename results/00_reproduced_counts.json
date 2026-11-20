@@ -1,0 +1,12 @@
+{
+  "total_families": 3128,
+  "field_gated": 368,
+  "function_gated": 2996,
+  "final_both_gates": 347,
+  "final_evidence_source": {
+    "semantic_sentence": 318,
+    "direct_parser": 29
+  },
+  "n_priority_all": 7,
+  "n_primary": 1
+}

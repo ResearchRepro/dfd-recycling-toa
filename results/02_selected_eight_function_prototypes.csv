@@ -1,0 +1,9 @@
+﻿function_rank,prototype_function,normalized_frequency,normalized_patent_families,merged_variants,target_similarity,target_similarity_z,function_score
+1,achieve tool free disassembly and assembly,129,127,22,0.7264972,5.582206539826542,27.171582642164143
+2,realize non destructive disassembly,27,27,10,0.73615587,5.705074323899534,19.01047439298278
+3,adopt design convenient to disassemble and assemble,42,42,13,0.64786613,4.581944827553907,17.233611415497275
+4,design disassembly and assembly connect mechanism,23,23,4,0.6667711,4.822434217466543,15.325955536420546
+5,adopt modular design,21,21,4,0.55058473,3.344432874582809,10.337783997742651
+6,adopt detachable structure,6,6,3,0.5828294,3.7546159235730387,7.3061452314854645
+7,adjust assembly,30,26,9,0.44897443,2.051853110287339,7.046037326209772
+8,disassemble circuit board,6,6,3,0.5097979,2.82558516489971,5.498334849398477

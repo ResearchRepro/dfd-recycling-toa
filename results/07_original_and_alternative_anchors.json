@@ -1,0 +1,96 @@
+{
+  "original_7_top3_vs_service_max": {
+    "recycling": [
+      "end-of-life material recovery for recycling",
+      "product recyclability",
+      "component separation for recycling",
+      "closed-loop material recycling",
+      "recovery of recyclable materials from products",
+      "end-of-life disassembly for material recovery",
+      "sorting and separation of recyclable product materials"
+    ],
+    "service": [
+      "maintenance and servicing access",
+      "repair of a product",
+      "replacement of a failed component",
+      "serviceability and maintenance disassembly",
+      "assembly access for repair"
+    ],
+    "top_k": 3,
+    "service_aggregation": "max"
+  },
+  "original_7_top1_vs_service_max": {
+    "recycling": [
+      "end-of-life material recovery for recycling",
+      "product recyclability",
+      "component separation for recycling",
+      "closed-loop material recycling",
+      "recovery of recyclable materials from products",
+      "end-of-life disassembly for material recovery",
+      "sorting and separation of recyclable product materials"
+    ],
+    "service": [
+      "maintenance and servicing access",
+      "repair of a product",
+      "replacement of a failed component",
+      "serviceability and maintenance disassembly",
+      "assembly access for repair"
+    ],
+    "top_k": 1,
+    "service_aggregation": "max"
+  },
+  "original_7_mean_vs_service_mean": {
+    "recycling": [
+      "end-of-life material recovery for recycling",
+      "product recyclability",
+      "component separation for recycling",
+      "closed-loop material recycling",
+      "recovery of recyclable materials from products",
+      "end-of-life disassembly for material recovery",
+      "sorting and separation of recyclable product materials"
+    ],
+    "service": [
+      "maintenance and servicing access",
+      "repair of a product",
+      "replacement of a failed component",
+      "serviceability and maintenance disassembly",
+      "assembly access for repair"
+    ],
+    "top_k": 0,
+    "service_aggregation": "mean"
+  },
+  "short_recycling_4_top3": {
+    "recycling": [
+      "end-of-life material recovery for recycling",
+      "product recyclability",
+      "component separation for recycling",
+      "closed-loop material recycling"
+    ],
+    "service": [
+      "maintenance and servicing access",
+      "repair of a product",
+      "replacement of a failed component",
+      "serviceability and maintenance disassembly",
+      "assembly access for repair"
+    ],
+    "top_k": 3,
+    "service_aggregation": "max"
+  },
+  "end_of_life_4_top3": {
+    "recycling": [
+      "end-of-life material recovery for recycling",
+      "component separation for recycling",
+      "recovery of recyclable materials from products",
+      "end-of-life disassembly for material recovery"
+    ],
+    "service": [
+      "maintenance and servicing access",
+      "repair of a product",
+      "replacement of a failed component",
+      "serviceability and maintenance disassembly",
+      "assembly access for repair"
+    ],
+    "top_k": 3,
+    "service_aggregation": "max"
+  }
+}

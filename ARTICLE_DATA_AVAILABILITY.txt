@@ -1,0 +1,1 @@
+The analysis notebooks, software environment information, and permitted aggregate outputs are available at https://github.com/ResearchRepro/dfd-recycling-toa. The underlying Lens patent export is not redistributed in this repository. This statement should be used only after the public repository has been verified and the uploaded files have been checked.
