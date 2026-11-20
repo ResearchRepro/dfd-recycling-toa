@@ -1,0 +1,31 @@
+file,variable,n,agreed,agreement,cohen_kappa,macro_precision,macro_recall,macro_f1,weighted_f1,accepted_predictions,note
+core_random_300.csv,gold_function,300,250,0.83333,0.77277,,,,,,
+core_random_300.csv,gold_recycling_relevant_0_1,300,286,0.95333,0.77419,,,,,,
+core_random_300.csv,gold_dfd_relevant_0_1,300,290,0.96667,0.92907,,,,,,
+core_random_300.csv,gold_physically_disassemblable_0_1,300,281,0.93667,0.85063,,,,,,
+core_random_300.csv,gold_transfer_feasible_0_1,300,288,0.96,0.91549,,,,,,
+supplement_stratified_249.csv,gold_function,249,210,0.84337,0.78229,,,,,,
+supplement_stratified_249.csv,gold_recycling_relevant_0_1,249,234,0.93976,0.76455,,,,,,
+supplement_stratified_249.csv,gold_dfd_relevant_0_1,249,233,0.93574,0.87114,,,,,,
+supplement_stratified_249.csv,gold_physically_disassemblable_0_1,249,232,0.93173,0.84411,,,,,,
+supplement_stratified_249.csv,gold_transfer_feasible_0_1,249,233,0.93574,0.87154,,,,,,
+case_review_critical_28.csv,gold_function,28,24,0.85714,0.7533,,,,,,
+case_review_critical_28.csv,gold_recycling_relevant_0_1,28,27,0.96429,0.78125,,,,,,
+case_review_critical_28.csv,gold_dfd_relevant_0_1,28,27,0.96429,0.92391,,,,,,
+case_review_critical_28.csv,gold_physically_disassemblable_0_1,28,24,0.85714,0.71859,,,,,,
+case_review_critical_28.csv,gold_transfer_feasible_0_1,28,27,0.96429,0.92391,,,,,,
+parser_action_object_200.csv,expert_action_object_correct_0_1,200,138,0.69,0.39406,,,,,,
+parser_action_object_200.csv,expert_generic_expression_0_1,200,200,1.0,1.0,,,,,,
+semantic_merge_150.csv,expert_merge_correct_0_1,150,132,0.88,0.76237,,,,,,
+core_random_300.csv,final_field_function_prediction_vs_Expert_1,300,88,0.29333,,0.15864,0.11954,0.09966,0.19663,42.0,
+core_random_300.csv,consensus_only_exploratory_vs_Expert_1,250,84,0.336,,,,0.08912,,,"Agreement-only subset, not full random sample"
+core_random_300.csv,final_field_function_prediction_vs_Expert_2,300,96,0.32,,0.11935,0.10911,0.08842,0.21911,42.0,
+core_random_300.csv,consensus_only_exploratory_vs_Expert_2,250,84,0.336,,,,0.08912,,,"Agreement-only subset, not full random sample"
+supplement_stratified_249.csv,final_field_function_prediction_vs_Expert_1,249,69,0.27711,,0.25629,0.36586,0.26778,0.29559,159.0,
+supplement_stratified_249.csv,consensus_only_exploratory_vs_Expert_1,210,58,0.27619,,,,0.24831,,,"Agreement-only subset, not full random sample"
+supplement_stratified_249.csv,final_field_function_prediction_vs_Expert_2,249,69,0.27711,,0.23286,0.3296,0.25131,0.28646,159.0,
+supplement_stratified_249.csv,consensus_only_exploratory_vs_Expert_2,210,58,0.27619,,,,0.24831,,,"Agreement-only subset, not full random sample"
+parser_action_object_200.csv,expert_action_object_correct_0_1_Expert_1,200,104,0.52,,,,,,,
+parser_action_object_200.csv,expert_action_object_correct_0_1_Expert_2,200,42,0.21,,,,,,,
+semantic_merge_150.csv,expert_merge_correct_0_1_Expert_1,150,79,0.52667,,,,,,,
+semantic_merge_150.csv,expert_merge_correct_0_1_Expert_2,150,61,0.40667,,,,,,,

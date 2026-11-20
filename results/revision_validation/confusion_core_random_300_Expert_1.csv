@@ -1,0 +1,10 @@
+,pred_NONE,pred_achieve tool free disassembly and assembly,pred_adjust assembly,pred_adopt design convenient to disassemble and assemble,pred_adopt detachable structure,pred_adopt modular design,pred_design disassembly and assembly connect mechanism,pred_disassemble circuit board,pred_realize non destructive disassembly
+true_NONE,80,1,1,9,1,6,2,1,4
+true_achieve tool free disassembly and assembly,18,1,0,1,0,1,2,0,0
+true_adjust assembly,3,0,0,0,0,0,0,0,0
+true_adopt design convenient to disassemble and assemble,99,1,0,3,0,0,1,0,0
+true_adopt detachable structure,4,0,1,0,0,0,0,0,0
+true_adopt modular design,11,0,0,0,0,1,0,0,0
+true_design disassembly and assembly connect mechanism,28,0,0,0,0,0,1,0,1
+true_disassemble circuit board,2,0,0,0,0,0,0,0,0
+true_realize non destructive disassembly,13,0,0,0,0,0,1,0,2

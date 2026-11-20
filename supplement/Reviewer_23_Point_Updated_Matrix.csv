@@ -1,0 +1,24 @@
+﻿Comment,Reviewer request,Location,Completed action,Response disposition
+R1-1,Expert validation and assignment reliability,3.8 / 4.7; S8,Reported expert comparisons and per-class metrics,Addressed with disclosed accuracy limits
+R1-2,Threshold/margin and confusion matrix,3.5 / 4.7; S5a / S8,"30-configuration audit, explain zero margin",Addressed
+R1-3,"Lens query, date, patent IDs",3.1 / S1; ID CSV,Exact query and 1 Sep 2026; IDs,Addressed
+R1-4,China and language bias,3.1 / 4.1 / 5.6; S3,CN selection-rate analysis; Google Translate explanation,Addressed; language limitations noted
+R1-5,UMAP/HDBSCAN and field sensitivity,4.2 / 4.7; S5,18 base-cluster setups and 30 threshold variants,Addressed within base-cluster sensitivity scope
+R1-6,TV field/country/age effects,3.6 / 4.7 / 5.1; S5c,9 floor/adjustment variants and cluster 100 qualification,Addressed
+R1-7,TN/ROS anchors and robustness,3.7 / 4.7; S2 / S6,Full anchors and alternative scenarios,Addressed
+R1-8,Cluster 41 incorrect transfer claim,4.5.2 / 5.2; S9,Expert nonconfirmation; diagnostic false positive,Addressed
+R1-9,Cluster 100 software vs hardware,4.5.1 / 5.1 / 5.5,Restricted interpretation + physical server example,Addressed
+R1-10,Y10/singletons/negative ROS,4.5 / 4.7; S5c,Alternative screens reported,Addressed
+R1-11,Expert check and engineering test,4.7 / 5.5 / 5.6,Two experts; testable server design-transfer protocol,Addressed at conceptual/protocol level
+R1-12,Kim same-corpus numeric baseline,2.2 / 5.4 / 5.6; S1,Documented design-level comparison; no false numerical superiority,Reasoned scope response; no matched benchmark
+R2-1,Inherit vs novel methodological elements,2.2 / 5.4; S1,Component-by-component comparison,Addressed
+R2-2,Query and jurisdiction/language,3.1 / 4.1 / 5.6; S1 / S3,Query and stratified rates,Addressed
+R2-3,"Boolean, dates and selection",3.1 / 4.1; S1,Exact retrieval documentation,Addressed
+R2-4,3-char vs subclass and Y10,3.3 / 4.2 / 4.5.4; S4,Four-character cross-tab; residual-class rationale,Addressed
+R2-5,AO good/bad and semantic merge,3.4 / 4.3; S7,"Parser rules, examples, expert agreement",Addressed
+R2-6,Expert P/R/F1 confusion per function,3.8 / 4.7; S8 and CSVs,Reports and confusion matrices for both experts,Addressed
+R2-7,Metric correlations/sensitivity,4.7 / 5.4; S5–S6,Spearman correlations and alternative weights,Addressed
+R2-8,ROS anchor development and experts,3.7 / 4.7; S2 / S6b,"Full anchors, alternative aggregations, exploratory expert comparison",Addressed with limited-sample qualification
+R2-9,ROS relative sign,3.7 / 5.2,Standardized corpus-relative interpretation,Addressed
+R2-10,Field–function design decisions,5.5,Worked physical release-interface example,Addressed
+R2-11,English editing and AI-like text,Across manuscript,Targeted content-tied copyediting while retaining layout,Addressed with targeted polishing

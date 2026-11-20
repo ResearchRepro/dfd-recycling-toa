@@ -1,0 +1,6 @@
+Component,Adapted from Kim 2026,This study adds
+Reference fields,Kim CPC representative fields,Observed CPC assignment gate
+Functions,Kim AO extraction and normalization,Separate sentence provenance and mechanisms
+Clustering,Kim zero-shot BERTopic label seeding,Dual evidence gates instead of semantic label membership alone
+Evaluation,Kim TV/TR/TN,TV/TR/TN plus recycling-orientation ROS
+Output,Kim LLM solution concept generation,Patent-linked engineering screening and worked example
